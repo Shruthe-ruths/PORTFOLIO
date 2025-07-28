@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 50px;
+  background-color: #f0f0f0;
+}
+
+header h1 {
+  color: #2e3d49;
+}
+
+.resume-link a {
+  font-size: 18px;
+  background: #007bff;
+  padding: 10px 20px;
+  border-radius: 8px;
+  color: white;
+  text-decoration: none;
+}
+
+.resume-link a:hover {
+  background: #0056b3;
+}
+
+footer {
+  margin-top: 40px;
+  font-size: 14px;
+  color: #666;
+}
